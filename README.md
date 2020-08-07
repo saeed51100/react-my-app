@@ -11,7 +11,7 @@
         onClick={this.switchNameHandler()}>Switch Name
     &lt;/button&gt;
     </code></pre>
-    <br />
+    <p><h4>به این صورت :</h4></p>
     <pre dir="ltr"> ‍‍‍<code>
     &lt;button&gt;
         style={style}
