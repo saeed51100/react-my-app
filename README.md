@@ -5,12 +5,12 @@
     <p><h4>در این جلسه قرار است افراد را بر اساس شرطی خاص نمایش دهیم . می خواهیم وقتی بر روی دکمه کلیک شد افراد نمایش داده شده یا مخفی شوند</h4></p>
     <p><h4>برای این کار باید آن ها را درون یک div قرار دهیم تا آن div را به طور کامل مخفی کنیم. بدین صورت افراد داخل div هم مخفی می شوند</h4></p>
     <p><h4></h4></p>
-    <p><h4><pre dir="ltr"> ‍‍‍<code>
+    <p><pre dir="ltr"> ‍‍‍<code>
                &lt;button
                  style={style}
                  onClick={() => this.switchNameHandler('Maximilian!!')}&gt;Switch Name
                &lt;/button&gt;
-               </code></pre></h4></p>
+               </code></pre></p>
                <br />
     <p><h4></h4></p>
     <p><h4></h4></p>
