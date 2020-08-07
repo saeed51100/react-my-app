@@ -18,7 +18,7 @@
         onClick={this.togglePersonsHandler}>Toggle Persons
     &lt;/button&gt;
     </code></pre>
-    <p><h4></h4></p>
+    <p><h4>بعد از آن متد togglePersonsHandler را طوری می نویسیم که خصوصیت خاصی را toggle (فعال و غیر فعال) کند و بر اساس آن افراد نمایش داده شده یا مخفی شوند. به همین خاطر باید به state برویم و این خصوصیت را تعریف کنیم </h4></p>
     <p><h4></h4></p>
     <p><h4></h4></p>
     <p><h4></h4></p>
