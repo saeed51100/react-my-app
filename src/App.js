@@ -6,14 +6,13 @@ class App extends Component {
 
     state = {
         persons: [
-            {name: 'Max', age: 28},
-            {name: 'Manu', age: 29},
-            {name: 'Stephanie', age: 26}
+            {name: "Max", age: 28},
+            {name: "Manu", age: 29},
+            {name: "Stephanie", age: 26}
         ],
         otherState: 'some other value',
         showPersons: false
     }
-
 
     switchNameHandler = () => {
         // console.log('was clicked!');
