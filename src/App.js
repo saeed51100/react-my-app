@@ -82,7 +82,6 @@ class App extends Component {
                 color: 'black'
             }
         }
-
         const classes = [];
 
         if (this.state.persons.length <= 2) {
